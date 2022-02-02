@@ -21,8 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nakulthakare@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Github, icon: github, url: "https://github.com/nakulthakare"}
+  - {title: Subscribe, icon: linkedin, url: "https://www.linkedin.com/in/nakul-thakare/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
