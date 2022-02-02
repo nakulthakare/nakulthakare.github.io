@@ -18,12 +18,12 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/Thakare_Nakul.pdf", title: "CV", icon: home}
-  - {file: "README.md", title: "About Me", icon: address-card}
+  - {title: "README.md", title: "About Me", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nakulthakare@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/nakulthakare"}
-  - {title: Subscribe, icon: linkedin, url: "https://www.linkedin.com/in/nakul-thakare/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/nakul-thakare/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
